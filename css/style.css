@@ -1,0 +1,14 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* # General */
+header {
+    color: white;
+    background-color: #00008B;
+}
+
+/* # Utilities */
+th.text-darkblue {
+    color: #00008B;
+}
