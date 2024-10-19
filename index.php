@@ -24,6 +24,7 @@ $customer = new Customer('Mark', 'Kapp', 'markapp@example.com', 'password', $acc
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Logo.png" type="image/png">
     <title>Bank Account</title>
     <!-- Google Fonts -->
     <link
